@@ -1,4 +1,9 @@
 first some text
 second some text
 
-new text for revert commit
+
+ughsglgh
+
+new line for test git gui
+
+new content for test revert
