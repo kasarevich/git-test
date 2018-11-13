@@ -1,4 +1,4 @@
 first some text
 second some text
 
-ughsglgh
+new text for revert commit
