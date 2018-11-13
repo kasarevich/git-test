@@ -5,5 +5,3 @@ second some text
 ughsglgh
 
 new line for test git gui
-
-new content for test revert
